@@ -260,7 +260,7 @@ html {
         rgba(20, 20, 20, 0.2),
         rgba(20, 20, 20, 0.2)
       ),
-      url(/image/hero/hero-mob.webp);
+      url(../image/hero/hero-mob.webp);
     background-size: 375px 372px;
     background-repeat: no-repeat;
     background-position: bottom;
